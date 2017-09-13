@@ -1,0 +1,21 @@
+{
+  "name": "altbitaddressgen",
+  "version": "7.2.4",
+  "description": "Open Source JavaScript Client-Side altcoins Wallet Generator",
+  "main": "Gruntfile.js",
+  "dependencies": {
+    "grunt": "^0.4.5",
+    "grunt-combine": "^0.8.3",
+    "grunt-lineending": "^0.2.4"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/patnox/altbitaddressgen.git"
+  },
+  "keywords": [
+    "altcoin bitcoin address wallet generator"
+  ],
+  "author": "patnox",
+  "license": "GPL-3.0",
+  "readmeFilename": "README.md"
+}
