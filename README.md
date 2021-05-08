@@ -33,3 +33,13 @@ END USER NOTES:
  7) To print QRCode in IE8 you must enable the "Print Background Colors and Images" checkbox on the "Page Setup" screen.
 
 
+ DEVELOPER NOTES:
+ ----------------
+ 
+ 1) $ npm install
+
+ 2) $ grunt
+
+
+
+
