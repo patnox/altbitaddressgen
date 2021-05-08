@@ -1,12 +1,12 @@
 {
   "name": "altbitaddressgen",
-  "version": "7.2.4",
+  "version": "9.3.4",
   "description": "Open Source JavaScript Client-Side altcoins Wallet Generator",
   "main": "Gruntfile.js",
   "dependencies": {
-    "grunt": "^0.4.5",
-    "grunt-combine": "^0.8.3",
-    "grunt-lineending": "^0.2.4"
+    "grunt": "latest",
+    "grunt-combine": "latest",
+    "grunt-lineending": "latest"
   },
   "repository": {
     "type": "git",
